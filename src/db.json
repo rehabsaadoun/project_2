@@ -1,0 +1,33 @@
+{
+    "cities": [
+        {
+            "city": "Honolulu",
+            "url": "./image/20.jpg"
+        },
+        {
+            "city": "New York",
+            "url": "./image/21jpg"
+        },
+        {
+        "city": "San Diego",
+        "url": "./image/22jpg"
+        },
+        {
+            "city": "Los Angeles",
+            "url": "./image/23jpg"
+            },
+            {
+          "city": "Minnesota",
+          "url": "./image/24jpg"
+                },
+              {
+           "city": "Rochester",
+           "url": "./image/25jpg"
+
+         }, 
+         {   
+         "city": "orlando",
+         "url": "./image/26jpg" 
+         }
+    ]
+}
